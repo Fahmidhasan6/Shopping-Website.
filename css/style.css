@@ -1,0 +1,329 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    color: #000000;
+
+}
+/* header start */
+
+header{
+    /* border: solid red 5px; */
+   
+    
+
+
+}
+.logo01{
+    padding-top: 5px;  
+    width: 195px;
+    height: 50px;
+    /* color: #242323; */
+    
+
+}
+/* .h_text{
+    font-size: 40px;
+    font-weight: 900;
+    line-height: 60px;
+} */
+.menu{
+    
+    font-family: 'Lato', sans-serif;   
+    font-weight: 500;
+    
+}
+.menu ul li a{
+    color: #000000 !important;   
+}
+.menu ul li a:hover{
+    color:#e6c743 !important;
+}
+.m_i{
+    padding-top: 10px;
+    padding-right: 50px;
+    height: 36px;
+    font-style: normal;   
+    font-size: 22px;
+    line-height: 33px;
+    letter-spacing: 0.01em;
+
+}
+.btn_common{
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 36px;
+    color:#FFFFFF !important;
+    background-color:  #000000 !important;
+}
+.btn_header{
+    width: 134px;
+    height: 62px;
+    left: 706px;
+    top: 0px;
+}
+.btn_common:hover{
+    color: #000000 !important;
+    background-color:#e6c743 !important;
+
+}
+
+/* hrader end */
+/* banner start */
+.banner{
+    padding: 60px 5px;
+    background-image:url(../image/Group\ 69.png );
+    /* height: 500px; */
+    background-position: center; 
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 6%;
+}
+.i_bimg{
+    border-radius: 5%;
+}
+.b_h1{
+    padding-top: 20px;
+    font-weight:900 !important;
+    font-size: 60px;
+    line-height: 70px;
+}
+.b_p1{
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 30px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    
+}
+.s_p{
+    padding-left: 10px;
+}
+.btn_c{
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 36px;
+    color:#FFFFFF !important;
+    background-color:  #000000 !important;
+}
+.btn_h{
+    
+    width: 130px;
+    height: 50px;
+   
+    
+}
+/* banner 2 */
+.b_b1{
+    padding: 40px 30px;
+    background-color:#ebd96b
+    
+}
+.b_b2{}
+/* new arive */
+.n_a{
+    padding: 30px 10px;
+    font-weight: 900;
+    font-size: 48px;
+    line-height: 50px;
+}
+.n_t{
+    padding: 0 10px;
+   
+}
+.n_h5{
+    padding-top: 17px;
+    padding-bottom: px;
+}
+.n_icon{
+    padding-top: 20px;
+    height: 20px;
+    width: 20px;
+}
+.n_a2{
+    padding-top: 20px;
+    padding-left:  20px;
+    padding-right:  20px;
+}
+
+/* banner 2nd start */
+.banner_2nd{
+    background-color:#e6c743
+}
+.b2_all{
+    background-image:url(../image/\ baner\ 2nd\ \(3\).png );
+    background-position: center; 
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #000000;
+    padding-top: 100px;
+    padding-bottom: 65px;
+    padding-left: 60px;
+    padding-right:100px;
+}
+.b2_p1{
+    font-weight: 900;
+    font-size: 100px;
+    line-height: 120px;
+}
+.b2_p2{
+    font-weight: 500;
+    font-size: 32px;
+    line-height: 52px;
+}
+.b2_p3{
+    font-weight: 700;
+    font-size: 20px;
+    padding-top:20px;
+}
+.b2_p4{
+    font-weight: 400;
+    font-size: 16px;
+    
+}
+.btn_b2{
+    padding-top: 20px;
+}
+.b3n_icon{
+    padding-top: 20px;
+    height: 20px;
+    width: 20px;
+}
+/* best product */
+.bp_b{
+    background-color:#e6c743
+    
+
+}
+.bp_i{
+    border-radius: 20px;
+}
+/* sell of day */
+.sell_all{
+    background-color:#e6c743
+}
+.sell_a{
+    padding-top: 50px;
+    padding-bottom: 50px;
+    
+}
+.sd_img{
+   
+    border-radius: 10%;
+}
+.sd_text{
+    padding-top: 100px;
+    padding-left: 30px;
+    
+}
+.sd_h2{
+    font-weight: 900;
+    font-size: 68px;
+    line-height: 88px;
+
+}
+.sd_p{}
+.sd_d{}
+.ht{
+    padding-left: 20px;
+    padding-right: 25px;
+}
+.h{
+    padding-left: 20px;
+    padding-right: 25px;
+}
+.mt{}
+.m{}
+/* app  */
+.app_pad{
+    padding-top: 200px;
+    padding-bottom: 100px;
+}
+.app_p{
+    font-weight: 900;
+    font-size: 65px;
+    line-height: 150%;
+
+
+}
+.app_t{
+    font-weight: 500;
+    font-size: 24px;
+    padding-top: 20px;
+    line-height: 35px;
+
+}
+.app_icon{
+   
+    padding: 70px 110px;
+}
+
+
+.appimg{}
+
+
+/* contuct us */
+.c_padding{
+    padding-top: 80px;
+    padding-bottom: 50px;
+}
+.c_form{
+    margin-top: 35px;
+    margin-bottom: 70px;
+}
+.c_input{
+  
+    height: 55px;
+    font-family: 'PT Sans', sans-serif;
+    color: #898989;
+    padding: 15px 20px;
+    
+}
+.c_submit{
+    width: 100%;
+    height: 55px;
+    background-color: #e6c743;
+    font-family: 'PT Sans', sans-serif;
+    font-size:16px;
+    font-weight: 700;
+    color:#010101;
+    text-transform: uppercase;
+
+}
+.c_submit:hover{
+    color:#010101;
+}
+/* icon */
+
+.c_icon li{
+    margin-right: 35px !important;
+
+
+}
+.c_icon li:last-child{
+    margin-right: 0 !important;
+}
+.c_icon li i{
+    font-size: 42px;
+    color: #e6c743;
+    transition: .3s;
+}
+.c_icon li i:hover{
+    color:#010101;
+}
+/* footer */
+footer{
+    padding-top: 50px;
+    background-color: #010101;
+    padding-bottom: 120px;
+}
+
+.f_1{
+
+}
+.f_1 address{
+    color: #fff;
+}
+.f_2{}
+.f_2 p a{
+    color: white;
+    text-decoration: none;
+}

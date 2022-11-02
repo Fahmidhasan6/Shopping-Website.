@@ -1,0 +1,518 @@
+ /* Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px) { 
+    .logo01 {
+        width: 185px;
+        height: 32px;
+        padding-left: 10px;
+        
+    }
+    .s_p{
+        padding-top:25px;
+        padding-left: 20px;
+    } 
+   
+   
+    .btn_common{   
+    font-size: 18px;
+    line-height: 36px;  
+    }
+    .btn_header{
+    width: 90px;
+    height: 50px;
+    }
+    .menu ul li a {
+       
+        padding-left: 20px;
+    }
+    
+ /* banner */
+    .banner{
+    padding: 30px 30px;
+    
+    }
+    .b_h1{
+    padding-top: 20px;
+    font-size: 30px;
+    line-height: 40px;
+    }
+    .b_p1{
+    
+    font-size: 20px;
+    line-height: 30px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    
+    }
+   
+/* banner 02 */
+    .b_b1{
+    padding: 30px 20px;
+   
+    }
+    .b_b2{
+    padding-top: 20px;
+    }
+    .b_b3{
+    padding-top: 20px;
+    }
+   /*new arrivel  */
+   .n_a{
+    padding-top: 30px;
+    }
+    .n_h5{
+    padding-top: 10px;
+   
+    }
+/* our product */
+
+    .n_a2{
+    padding-top: 30px;
+    padding-left:  30px;
+    padding-right:  20px;
+    }
+    .b3n_icon{
+    padding-top:0px;
+    height: 20px;
+    width: 20px;
+   }
+   /* banner 2nd */
+   .b2_all{
+        
+    padding-top: 40px;
+    padding-bottom: 30px;
+    padding-left: 60px;
+    padding-right:60px;
+    }
+    .b2_p1{
+    font-weight: 900;
+    font-size: 40px;
+    line-height: 50px;
+    }
+    .b2_p2{
+    font-weight: 600;
+    font-size: 13px;
+    line-height: 25px;
+    }
+    .b2_p3{
+    font-weight: 600;
+    font-size: 15px;
+    padding-top:0px;
+    }
+    .b2_p4{
+    font-weight: 400;
+    font-size: 12px;
+    
+    }
+    .btn_b2{
+    padding-top: 10px;
+    }
+    .b3n_h5{
+    font-weight: 600;
+    font-size: 16px;
+    line-height: px;
+    padding-top: 10px;
+    padding-bottom: 0px;
+    }
+    .b3n_h6{
+    font-weight: 500;
+    font-size: px;
+    line-height: 20px;
+    }
+ /* sell time */
+    .sd_text{
+    padding-top: 100px;
+    padding-left: 30px;
+    
+    }
+    .sd_h2{
+   
+    font-size: 30px;
+    line-height: 40px;
+
+    }
+  /* contact us */
+    .c_icon li i{
+    font-size: 35px;
+
+    }
+    .c_icon li{
+    margin-right: 20px !important;
+
+    }
+ /* footer */
+    footer{
+    padding-bottom: 70px;
+    }
+    .f_1{
+    text-align: center;
+    
+    }
+    .f_2{
+    margin-top: 40px;
+    text-align: center;
+    }
+ /* app */
+    .app_pad{
+        padding-top: 80px;
+        }
+        .app_p{
+        font-size: 30px;
+        }
+        .app_t{
+        font-size: 16px;
+        padding-top: 20px;
+        line-height: 30px;
+    
+        }
+        .app_icon{   
+        padding: 15px 80px;
+       }
+       .img01{
+        padding-bottom: 10px;
+        }
+    
+
+}
+
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) and (max-width: 767.98px) { 
+    .logo01{
+        padding-left: 10px;
+    }
+    .menu ul li a {
+       
+        padding-left: 20px;
+    }
+    .s_p{
+        padding-top:25px;
+        padding-left: 20px;
+    } 
+    .btn_common{   
+        font-size: 18px;
+        line-height: 36px;  
+    }
+    .btn_header{
+        width: 90px;
+        height: 50px;
+    }
+    
+    /* banner */
+    .banner{
+        padding: 30px 30px;
+        
+    }
+    .b_h1{
+        padding-top: 20px;
+        font-size: 30px;
+        line-height: 40px;
+    }
+    .b_p1{ 
+        font-size: 20px;
+        line-height: 30px;
+        padding-top: 0px;
+        padding-bottom: 0px;  
+    }
+    
+    /* banner 02 */
+    .b_b1{
+        padding: 30px 20px;
+       
+    }
+    .b_b2{
+        padding-top: 20px;
+    }
+    .b_b3{
+        padding-top: 20px;
+    }
+       /*new arrivel  */
+   .n_a{
+    padding-top: 30px;
+    }
+    .n_h5{
+     padding-top: 10px;
+    
+    }
+ /* our product */
+ 
+    .n_a2{
+     padding-top: 30px;
+     padding-left:  30px;
+     padding-right:  30px;
+    }
+ /* sell time */
+    .sd_text{
+    padding-top: 100px;
+     padding-left: 30px;
+    
+     }
+    .sd_h2{
+   
+    font-size: 30px;
+    line-height: 40px;
+
+    }     /* app */
+    .app_pad{
+    padding-top: 80px;
+    }
+    .app_p{
+    font-size: 30px;
+    }
+    .app_t{
+    font-size: 16px;
+    padding-top: 20px;
+    line-height: 30px;
+
+    }
+    .app_icon{   
+    padding: 15px 80px;
+    }
+    .img01{
+    padding-bottom: 10px;
+    }
+    
+   
+
+ }
+
+ /* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px) { 
+    /* header */
+    .menu ul li a {
+       
+        padding-left: 10px;
+    }
+    .s_p{
+        padding-top:20px;
+        padding-left: 10px;
+    }
+    .btn_common{   
+        font-size: 18px;
+        line-height: 36px;  
+    }
+    .btn_header{
+        width: 90px;
+        height: 50px;
+    }
+    /* banner */
+    .b_h1 {
+        font-size: 32px;
+        line-height: 35px;
+    }
+    .b_p1{
+        
+        padding-top: 0px;
+        padding-bottom: 10px;
+        
+    }
+    /* banner 02 */
+    .b_b1{
+        padding: 30px 20px;
+       
+    }
+     /* new arrivel */
+    
+     .n_t{
+        padding: 0 0;
+           width:0;
+           height: 0;
+       }
+    .n_t{
+           padding: 0 0px;
+          
+       }
+    .n_a2{
+           padding-top: 20px;
+           padding-left:  20px;
+           padding-right:  20px;
+       }  
+    .n_h5{
+       font-weight: 600;
+       font-size: 16px;
+       line-height: px;
+       padding-top: 10px;
+       padding-bottom: 0px;
+    }
+    .n_h6{
+       font-weight: 500;
+       font-size: px;
+       line-height: 20px;
+     }
+     .n_p4{
+       padding-bottom: 130px;
+    }
+    /* banner 2nd */
+    .b2_all{
+        
+        padding-top: 40px;
+        padding-bottom: 30px;
+        padding-left: 60px;
+        padding-right:100px;
+    }
+    .b2_p1{
+        font-weight: 900;
+        font-size: 40px;
+        line-height: 50px;
+    }
+    .b2_p2{
+        font-weight: 600;
+        font-size: 13px;
+        line-height: 25px;
+    }
+    .b2_p3{
+        font-weight: 600;
+        font-size: 15px;
+        padding-top:0px;
+    }
+    .b2_p4{
+        font-weight: 400;
+        font-size: 12px;
+        
+    }
+    .btn_b2{
+        padding-top: 10px;
+    }
+    /* our product */
+    .n_a2{
+        padding-top: 30px;
+        padding-left:  30px;
+        padding-right:  20px;
+    }
+    .bp_c1{
+        padding-top:100px;
+       }
+    
+    /* sell time */
+    .sd_text{
+        padding-top: 30px;
+       
+        
+    }
+    .sd_h2{
+        font-size: 40px;
+        line-height: 50px;
+    
+    }
+    /* app */
+     /* app */
+    .app_pad{
+     padding-top: 80px;
+    }
+    .app_p{
+    font-size: 30px;
+    }
+    .app_t{
+    font-size: 16px;
+    padding-top: 20px;
+    line-height: 30px;
+    
+    }
+   .app_icon{   
+    padding: 15px 100px;
+    }
+    .img01{
+    padding-bottom: 10px;
+    }
+    
+}
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199.98px) {
+    .logo01{  
+        width: 150px;
+        height: 30px;
+        padding-top: 5px;
+    }
+    .s_p {
+        padding-left: 1px;
+    }
+    
+    .m_i{
+        padding-right: 20px;
+        height: 30px;
+        line-height: 20px;  
+    }
+   .btn_common{   
+    font-size: 18px;
+    line-height: 36px;  
+    }
+    .btn_header{
+    width: 90px;
+    height: 50px;
+    }
+    .b_h1{
+    font-size: 50px;
+    line-height: 60px;
+    }
+    .b_p1{
+   
+    padding-top: 0px;
+    
+    }
+/* banner 2nd */
+    .b2_all{
+    background-image:url(../image/\ baner\ 2nd\ \(3\).png );
+    background-position: center; 
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #000000;
+    padding-top: 70px;
+    padding-bottom: 45px;
+    padding-left: 60px;
+    padding-right:100px;
+    }
+    .b2_p1{
+    font-weight: 900;
+    font-size: 60px;
+    line-height: 60px;
+    }
+    .b2_p2{
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 30px;
+    }
+    .b2_p3{
+    font-weight: 700;
+    font-size: 16px;
+    padding-top:0px;
+    }
+    .b2_p4{
+    font-weight: 400;
+    font-size: 16px;
+    
+    }
+    .btn_b2{
+    padding-top: 20px;
+    }
+    .sd_text{
+    padding-top: 60px;
+    }
+    .sd_h2{
+    font-size: 60px;
+    }
+/* app */
+    .app_pad{
+    padding-top: 120px;
+    }
+    .app_p{
+    font-size: 45px;
+    }
+    .app_t{
+    font-size: 20px;
+    padding-top: 20px;
+    line-height: 30px;
+
+    }
+    .app_icon{   
+    padding: 30px 20px;
+   }
+
+}
+ /* Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) and (max-width: 1399.98px) { 
+   
+        
+}
+ /* Extra Extra large devices (large desktops, 1400px and up) */
+@media (min-width: 1400px) { 
+    
+}
